@@ -1,0 +1,14 @@
+# Credenciales
+.env
+
+# Basura de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de salida (para no subir tus reportes Excel/Zip)
+data_output/
+*.xlsx
+*.zip
+*.parquet
+*.log

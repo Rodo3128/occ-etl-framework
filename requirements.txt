@@ -1,0 +1,8 @@
+pandas
+requests
+sqlalchemy
+pyodbc
+numpy
+openpyxl
+pyarrow
+python-dotenv
